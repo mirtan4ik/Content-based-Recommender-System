@@ -55,8 +55,7 @@
       "source": [
         "import streamlit as st\n",
         "import pandas as pd\n",
-        "st.write(\"'My app'\")\n",
-        "df = pd.read_csv(\"/content/articles_metadata.csv\")"
+        "st.write(\"'My app'\")\n"
       ]
     }
   ]
